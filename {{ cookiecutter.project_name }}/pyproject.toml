@@ -35,7 +35,7 @@ toml                     = { version = "^0.10", optional = true }
 [tool.poetry.dev-dependencies]
 black = "22.1.0"
 # Fix for black 22.1.0 (remove later)
-click = "8.0.4"
+click = "8.1.2"
 isort = "^5.10"
 doc8 = "^0.10"
 pre-commit = "^2.18"
