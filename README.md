@@ -5,7 +5,7 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Python 3.10 badge](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/downloads/)
 
-Пример стиля кода для всех Python проектов организации [Fire square](https://github.com/fire-square).
+Пример стиля кода для всех Python проектов организации [Fire Square](https://github.com/fire-square).
 Пример можно использовать где угодно, теперь он не зависит от определенных проектов.
 
 ## Установка
