@@ -67,6 +67,6 @@ print(some_function(3, 4))
 
 ## Спасибо
 
-Этот проект был сгенерирован с помощью [`fire-squad-style`](https://github.com/fire-squad/fire-squad-style).
-Текущая версия примера: [{% gitcommit %}](https://github.com/fire-squad/fire-squad-style/tree/{% gitcommit %}).
-Смотрите что [обновилось](https://github.com/fire-squad/fire-squad-style/compare/{% gitcommit %}...master) с того времени.
+Этот проект был сгенерирован с помощью [`fire-square-style`](https://github.com/fire-square/fire-square-style).
+Текущая версия примера: [{% gitcommit %}](https://github.com/fire-square/fire-square-style/tree/{% gitcommit %}).
+Смотрите что [обновилось](https://github.com/fire-square/fire-square-style/compare/{% gitcommit %}...master) с того времени.
