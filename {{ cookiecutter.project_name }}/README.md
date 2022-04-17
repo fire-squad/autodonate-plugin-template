@@ -67,6 +67,6 @@ print(some_function(3, 4))
 
 ## Спасибо
 
-Этот проект был сгенерирован с помощью [`autodonate-plugin-template`](https://github.com/fire-squad/autodonate-plugin-template).
-Текущая версия примера: [{% gitcommit %}](https://github.com/fire-squad/autodonate-plugin-template/tree/{% gitcommit %}).
-Смотрите что [обновилось](https://github.com/fire-squad/autodonate-plugin-template/compare/{% gitcommit %}...master) с того времени.
+Этот проект был сгенерирован с помощью [`fire-squad-style`](https://github.com/fire-squad/fire-squad-style).
+Текущая версия примера: [{% gitcommit %}](https://github.com/fire-squad/fire-squad-style/tree/{% gitcommit %}).
+Смотрите что [обновилось](https://github.com/fire-squad/fire-squad-style/compare/{% gitcommit %}...master) с того времени.

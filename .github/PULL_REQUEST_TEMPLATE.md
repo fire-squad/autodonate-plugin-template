@@ -6,6 +6,6 @@
 
 - [ ] Я написал подробное описание моих изменений.
 - [ ] Я написал подробную причину моих изменений.
-- [ ] Я точно прочитал и использовал все пункты [этого списка](https://github.com/fire-squad/autodonate-plugin-template/blob/master/CONTRIBUTING.md#перед-началом-работы).
+- [ ] Я точно прочитал и использовал все пункты [этого списка](https://github.com/fire-squad/fire-squad-style/blob/master/CONTRIBUTING.md#перед-началом-работы).
 - [ ] Я записал изменение в `CHANGELOG.md` и добавил номер PR туда.
 - [ ] Изменения успешно проходят все этапы `make test`.
