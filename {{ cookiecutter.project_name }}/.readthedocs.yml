@@ -13,5 +13,6 @@ python:
         - docs
 
 sphinx:
+  builder: dirhtml
   configuration: 'docs/conf.py'
   fail_on_warning: false
