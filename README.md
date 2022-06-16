@@ -5,8 +5,8 @@
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Python 3.10 badge](https://img.shields.io/badge/python-3.10-blue)](https://www.python.org/downloads/)
 
-Code template for all projects [Fire Square](https://github.com/fire-square) organization.
-Template can be used anywhere, this includes non-[Fire Square](https://github.com/fire-square) projects.
+Code template for all projects [firesquare](https://github.com/fire-square) organization.
+Template can be used anywhere, this includes non-[firesquare](https://github.com/fire-square) projects.
 
 ## Installing
 
