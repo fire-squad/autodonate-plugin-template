@@ -11,7 +11,7 @@ To install them you would need to run `install` command:
 poetry install
 ```
 
-Also, let's install `pre commit hooks` in `git`:
+Also, let's install git pre-commit hooks:
 ```bash
 poetry run pre-commit install
 ```
