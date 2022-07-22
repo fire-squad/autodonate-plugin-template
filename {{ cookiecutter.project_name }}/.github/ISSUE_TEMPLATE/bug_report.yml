@@ -29,14 +29,14 @@ body:
   - type: input
     id: python_version
     attributes:
-      label: Python Version
+      label: Python version
       placeholder: python -V
     validations:
       required: true
   - type: input
     id: poetry_version
     attributes:
-      label: poetry Version
+      label: poetry version
       placeholder: poetry version
     validations:
       required: true
@@ -71,5 +71,5 @@ body:
     attributes:
       label: This isn't a duplicate
       options:
-        - label: In repository and internet there is no duplicate of this error.
+        - label: In repository and Internet there is no duplicate of this error.
           required: true
