@@ -19,21 +19,25 @@ repository = "https://github.com/fire-square/fire-square-style"
 python = "^3.7"
 
 cookiecutter = "~2.1"
-jinja2-git = "~1.1"
+jinja2-git = "~1.2"
 MarkupSafe = "~1"
 lice = "~0.6"
 
 [tool.poetry.dev-dependencies]
 black = "~22"
 isort = "~5.10"
-pre-commit = "~2.19"
-mypy = "0.961"
+pre-commit = "~2.20"
+mypy = "0.971"
 
-safety = "~1.10"
+safety = "~2.1"
 
 pytest = "~7.1"
 pytest-cov = "~3.0"
+pytest-mock = "~3.8"
 pytest-randomly = "~3.12"
+Faker = "~13.15"
+
+GitPython = "~3.1"
 
 [tool.black]
 line-length = 120
